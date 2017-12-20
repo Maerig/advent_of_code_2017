@@ -1,4 +1,4 @@
-from day19.vector import Vector
+from utils.vector import Vector
 
 
 def read_input():
